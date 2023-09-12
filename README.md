@@ -17,7 +17,8 @@
 
 ## Sobre a Equipe
 
-Descreva brevemente quem é a equipe, sua composição, objetivos e missão. Dê uma visão geral do propósito da equipe e como ela se encaixa nos objetivos da organização.
+Bem vindos ao repositorio do grupo Agile Team. Somos um grupo formado por 4 estudantes de logística. O objetivo geral desta equipe é proporcionar soluções inovadoras e de alta qualidade que atendam às necessidades e expectativas dos nossos clientes, enquanto buscamos crescimento sustentável e sucesso no mercado."
+
 ## Processo Scrum
 
 Nesta seção, explique o processo Scrum que sua equipe segue. Você pode incluir informações sobre:
