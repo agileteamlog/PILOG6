@@ -17,19 +17,18 @@
 
 ## Sobre a Equipe
 
-Bem vindos ao repositorio do grupo Agile Team. Somos um grupo formado por 4 estudantes de logística. O objetivo geral desta equipe é proporcionar soluções inovadoras e de alta qualidade que atendam às necessidades e expectativas dos nossos clientes, enquanto buscamos crescimento sustentável e sucesso no mercado."
+Bem vindos ao repositorio do grupo Agile Team. Somos um grupo formado por 4 estudantes de logística. O objetivo geral desta equipe é proporcionar soluções inovadoras e de alta qualidade que atendam às necessidades e expectativas dos nossos clientes, enquanto buscamos crescimento sustentável e sucesso no mercado.
 
 ## Processo Scrum
+| NOME | ATRIBUIÇÃO | REDES SOCIAIS    | IDENTIFICAÇÃO |
+| -----| ---------- | -------------    | ------------- |  
+| Franciele | Scrum Master  | 
+| João      | Product Owner | 
+| Larissa   | Desenvolvedor |
+| Adressa   | Desenvolvedor | 
 
-Nesta seção, explique o processo Scrum que sua equipe segue. Você pode incluir informações sobre:
+ 
 
-- **Papéis Scrum**: Descreva quem é o Scrum Master, Product Owner e membros do desenvolvimento na equipe.
-
-- **Cerimônias Scrum**: Explicite quais cerimônias Scrum você realiza (por exemplo, Reuniões de Sprint, Revisões de Sprint, Retrospectivas) e suas finalidades.
-
-- **Artefatos Scrum**: Liste os artefatos Scrum que sua equipe utiliza (por exemplo, Product Backlog, Sprint Backlog, Incremento).
-
-- **Quadro Scrum**: Se você utiliza um quadro Scrum (físico ou digital), compartilhe um link ou imagem dele.
 
 ## Projetos Atuais
 
