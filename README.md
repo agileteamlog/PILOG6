@@ -45,20 +45,20 @@ Corrida | Previsão | Estado| Histórico|
 | Sprint 03|28/11/2023 | desenvolver |
 | Feira de Soluções | 12/12/2023 | desenvolver|  
 
-# Funcionalidades e registros (vídeos e apresnetações) das sprints
+## Funcionalidades e registros (vídeos e apresnetações) das sprints
 
 ## Tecnologias Utilizadas
 
  ### produto 
  
-# Cronograma das Sprints
+## Cronograma das Sprints
 Clicando, você será direcionado para o cronograma minucioso deste projeto, onde terá acesso aos detalhes das atividades, seus responsáveis, o estágio em que estão e a respectiva sprint a que cada atividade está associada.
 
 #### Cronograma das Sprints [ (clique aqui) ]
 
 ## Backlog do produto
 
-## Sprint 1. Concepção
+#### Sprint 1. Concepção
 ## Sprint 2. Desenvolvimento do Projeto
 ## Sprint 3 . Implementação
 ## Sprint 4. Operacionalização
