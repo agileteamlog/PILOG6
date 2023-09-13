@@ -31,7 +31,7 @@ Bem vindos ao repositorio do grupo Agile Team. Somos um grupo formado por 4 estu
 ## Projeto (API) 
 O projeto educacional que sera apresentado a seguir se baseia na Metodologia API, com ênfase no desenvolvimento de habilidades por meio da abordagem de aprendizagem com problemas reais (RPBL), validação externa e agilidade intelectual. Utilizamos estratégias para compreender o problema, criar uma solução viável e implementar o MVP como parte do processo (CDIO).
 
-# Objetivo do Projeto
+## Objetivo do Projeto
 
 
 
@@ -56,7 +56,7 @@ Clicando, você será direcionado para o cronograma minucioso deste projeto, ond
 
 #### Cronograma das Sprints [ (clique aqui) ]
 
-# Backlog do produto
+## Backlog do produto
 
 ## Sprint 1. Concepção
 ## Sprint 2. Desenvolvimento do Projeto
