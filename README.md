@@ -9,11 +9,12 @@
 ## Tabela de Conteúdos
 
 - [Sobre a Equipe](#sobre-a-equipe)
-- [Processo Scrum](#processo-scrum)
-- [Projetos Atuais](#projetos-atuais)
-- [Contribuição](#contribuição)
-- [Contato](#contato)
+- [Integrantes](#integrantes)
+- [Projetos](#projetos)
+- [Objetivo do Projeto](#Objetivo-do-produto)
+- [Planejamento de Entregas](Planejamento-de-Entregas)
 
+  
 
 ## Sobre a Equipe
 
@@ -27,20 +28,39 @@ Bem vindos ao repositorio do grupo Agile Team. Somos um grupo formado por 4 estu
 | Larissa   | Desenvolvedor |
 | Adressa   | Desenvolvedor | 
 
- 
+## Projeto (API) 
+O projeto educacional que sera apresentado a seguir se baseia na Metodologia API, com ênfase no desenvolvimento de habilidades por meio da abordagem de aprendizagem com problemas reais (RPBL), validação externa e agilidade intelectual. Utilizamos estratégias para compreender o problema, criar uma solução viável e implementar o MVP como parte do processo (CDIO).
+
+# Objetivo do Projeto
 
 
-## Projetos Atuais
-
-1. **Nome do Projeto 1**
-   - Descrição: Uma breve descrição do projeto.
-   - Repositório: [Link para o repositório](https://github.com/sua-equipe/projeto-1)
 
 ## Planejamento de Entregas 
-> - [x] 05/09/23 - Kick-off ✔️
-> - [x] 26/09/23- [Apresentação 0](): Em Desenvolvimento
-> - [x] 17/10/23- [Sprint 1](): 
-> - [x] 07/11/23- [Sprint 2](): 
-> - [x] 28/11/23- [Sprint 3](): 
-> - [x] 12/12/2023 - Feira de soluções
+Corrida | Previsão | Estado| Histórico|
+| ------ | -------- | ------ | -------- |
+|  Kick-off | 05/09/2023 | concluído ✔️| 
+| Apresentação 00 | 26/09/2023 | Em desenvolvimento|  
+| Sprint 01| 17/10/2023 | desenvolver | 
+| Sprint 02| 07/11/2023 | desenvolver |
+| Sprint 03|28/11/2023 | desenvolver |
+| Feira de Soluções | 12/12/2023 | desenvolver|  
+
+# Funcionalidades e registros (vídeos e apresnetações) das sprints
+
+## Tecnologias Utilizadas
+
+ ### produto 
+ 
+# Cronograma das Sprints
+Clicando, você será direcionado para o cronograma minucioso deste projeto, onde terá acesso aos detalhes das atividades, seus responsáveis, o estágio em que estão e a respectiva sprint a que cada atividade está associada.
+
+#### Cronograma das Sprints [ (clique aqui) ]
+
+# Backlog do produto
+
+## Sprint 1. Concepção
+## Sprint 2. Desenvolvimento do Projeto
+## Sprint 3 . Implementação
+## Sprint 4. Operacionalização
+
 
