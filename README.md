@@ -19,7 +19,7 @@
 
 Bem vindos ao repositorio do grupo Agile Team. Somos um grupo formado por 4 estudantes de logística. O objetivo geral desta equipe é proporcionar soluções inovadoras e de alta qualidade que atendam às necessidades e expectativas dos nossos clientes, enquanto buscamos crescimento sustentável e sucesso no mercado.
 
-## Processo Scrum
+## Integrantes
 | NOME | ATRIBUIÇÃO | REDES SOCIAIS    | IDENTIFICAÇÃO |
 | -----| ---------- | -------------    | ------------- |  
 | Franciele | Scrum Master  | 
@@ -32,14 +32,15 @@ Bem vindos ao repositorio do grupo Agile Team. Somos um grupo formado por 4 estu
 
 ## Projetos Atuais
 
-Liste os projetos atuais em que sua equipe está trabalhando. Forneça uma breve descrição de cada projeto e um link para o repositório correspondente.
-
 1. **Nome do Projeto 1**
    - Descrição: Uma breve descrição do projeto.
    - Repositório: [Link para o repositório](https://github.com/sua-equipe/projeto-1)
 
-2. **Nome do Projeto 2**
-   - Descrição: Outra breve descrição do projeto.
-   - Repositório: [Link para o repositório](https://github.com/sua-equipe/projeto-2)
+## Planejamento de Entregas 
+> - [x] 05/09/23 - Kick-off ✔️
+> - [x] 26/09/23- [Apresentação 0](): Em Desenvolvimento
+> - [x] 17/10/23- [Sprint 1](): 
+> - [x] 07/11/23- [Sprint 2](): 
+> - [x] 28/11/23- [Sprint 3](): 
+> - [x] 12/12/2023 - Feira de soluções
 
-## Contribuição
