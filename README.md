@@ -59,8 +59,8 @@ Clicando, você será direcionado para o cronograma minucioso deste projeto, ond
 ## Backlog do produto
 
 #### Sprint 1. Concepção
-## Sprint 2. Desenvolvimento do Projeto
-## Sprint 3 . Implementação
-## Sprint 4. Operacionalização
+#### Sprint 2. Desenvolvimento do Projeto
+#### Sprint 3 . Implementação
+#### Sprint 4. Operacionalização
 
 
