@@ -1,8 +1,9 @@
 # **Equipe de Desenvolvimento Scrum**
-<img width="304" alt="LOGO-AGILETEAM" src="https://github.com/larissaandradek/larissaandradek/assets/142457045/a80a0ad6-3890-4c2a-841c-dd9c2230de7c">
+
+![image](https://github.com/agileteamlog/PILOG6/assets/142457045/5f9c4285-11ba-4542-a6fd-2d7ec467d5e2)
+
 
 <p>Bem-vindo à página da nossa equipe de desenvolvimento Scrum no GitHub. Esta página contém informações importantes sobre nossa equipe, nossos processos e nossos projetos...</p>
-
 
 ---
 
