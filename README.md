@@ -56,6 +56,8 @@ magem](https://github.com/agileteamlog/PILOG6/assets/144856669/4c64fea0-dd85-42f
 ![jira](https://github.com/agileteamlog/PILOG6/assets/144856669/28fb90e7-14a5-424b-b530-3d4de43b6b52)
 ![sql](https://github.com/agileteamlog/PILOG6/assets/144856669/5ccd18e5-9ab2-4522-9f94-b406707007d6)
 
+
+
 ## Cronograma das Sprints
 Clicando, você será direcionado para o cronograma minucioso deste projeto, onde terá acesso aos detalhes das atividades, seus responsáveis, o estágio em que estão e a respectiva sprint a que cada atividade está associada.
 
