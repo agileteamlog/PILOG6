@@ -50,8 +50,9 @@ Corrida | Previsão | Estado| Histórico|
 ## Funcionalidades e registros (vídeos e apresentações) das sprints
 
 ## Tecnologias Utilizadas
-![image](https://github.com/agileteamlog/PILOG6/assets/144856669/d4b6667e-1627-4408-8673-239d60a2a442)
-![image](https://github.com/agileteamlog/PILOG6/assets/144856669/cd519dc4-f1ac-491e-858e-307f98cfd24f)
+![image](https://github.com/agileteamlog/PILOG6/assets/144856669/bebbd7d4-6041-4edc-a7b2-efbdff476e4f)
+
+
 
 
 
