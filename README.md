@@ -24,7 +24,7 @@ Bem vindos ao repositorio do grupo Agile Team. Somos um grupo formado por 5 estu
 ## Integrantes
 | NOME | ATRIBUIÇÃO | REDES SOCIAIS    | IDENTIFICAÇÃO |
 | -----| ---------- | -------------    | ------------- |  
-| Franciele | Scrum Master  | 
+| Franciele | Scrum Master  |           
 | João      | Product Owner | 
 | Larissa   | Desenvolvedor |
 | Adressa   | Desenvolvedor |
