@@ -54,7 +54,8 @@ Corrida | Previsão | Estado| Histórico|
 ![github i![pbi](https://github.com/agileteamlog/PILOG6/assets/144856669/f94e631a-b7c7-49e3-bd00-32ea7180464a)
 magem](https://github.com/agileteamlog/PILOG6/assets/144856669/4c64fea0-dd85-42f9-bbc0-ac994d929f7f)
 ![jira](https://github.com/agileteamlog/PILOG6/assets/144856669/28fb90e7-14a5-424b-b530-3d4de43b6b52)
-![sql](https://github.com/agileteamlog/PILOG6/assets/144856669/5ccd18e5-9ab2-4522-9f94-b406707007d6)
+![image](https://github.com/agileteamlog/PILOG6/assets/144856669/9695a63d-c88e-4dee-92e1-bcf425c8824e)
+
 
 
 
