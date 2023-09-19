@@ -19,7 +19,7 @@
 
 ## Sobre a Equipe
 
-Bem vindos ao repositorio do grupo Agile Team. Somos um grupo formado por 4 estudantes de logística. O objetivo geral desta equipe é proporcionar soluções inovadoras e de alta qualidade que atendam às necessidades e expectativas dos nossos clientes, enquanto buscamos crescimento sustentável e sucesso no mercado.
+Bem vindos ao repositorio do grupo Agile Team. Somos um grupo formado por 5 estudantes de logística. O objetivo geral desta equipe é proporcionar soluções inovadoras e de alta qualidade que atendam às necessidades e expectativas dos nossos clientes, enquanto buscamos crescimento sustentável e sucesso no mercado.
 
 ## Integrantes
 | NOME | ATRIBUIÇÃO | REDES SOCIAIS    | IDENTIFICAÇÃO |
