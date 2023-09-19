@@ -34,7 +34,7 @@ Bem vindos ao repositorio do grupo Agile Team. Somos um grupo formado por 5 estu
 O projeto educacional que sera apresentado a seguir se baseia na Metodologia API, com ênfase no desenvolvimento de habilidades por meio da abordagem de aprendizagem com problemas reais (RPBL), validação externa e agilidade intelectual. Utilizamos estratégias para compreender o problema, criar uma solução viável e implementar o MVP como parte do processo (CDIO).
 
 ## Objetivo do Projeto
-O objetivo é melhorar a eficiência operacional de uma empresa de transporte de carga, por meio de uma análise de produtividade dos veículos, e  assim obter uma otimização da distribuição e redução de custos de rotas. Isso será alcançado através da criação e modelagem de um banco de dados em SQL, e um desenvolvimento de um visualizador de indicadores em Business Intelligence (BI) e a aplicação do método de transportes para otimizar a distribuição.
+O objetivo é melhorar a eficiência operacional de uma empresa de transporte de carga, por meio de uma análise de produtividade dos veículos, e  assim obter uma otimização da distribuição e redução de custos de rotas. Isso será alcançado através da criação e modelagem de um banco de dados em SQL, e o desenvolvimento de um visualizador de indicadores em Business Intelligence (BI) e a aplicação do método de transportes para otimizar a distribuição.
 
 
 ## Planejamento de Entregas 
