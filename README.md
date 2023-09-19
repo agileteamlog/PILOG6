@@ -27,7 +27,8 @@ Bem vindos ao repositorio do grupo Agile Team. Somos um grupo formado por 4 estu
 | Franciele | Scrum Master  | 
 | João      | Product Owner | 
 | Larissa   | Desenvolvedor |
-| Adressa   | Desenvolvedor | 
+| Adressa   | Desenvolvedor |
+| Gustavo   | Desenvolvedor |
 
 ## Projeto (API) 
 O projeto educacional que sera apresentado a seguir se baseia na Metodologia API, com ênfase no desenvolvimento de habilidades por meio da abordagem de aprendizagem com problemas reais (RPBL), validação externa e agilidade intelectual. Utilizamos estratégias para compreender o problema, criar uma solução viável e implementar o MVP como parte do processo (CDIO).
