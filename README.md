@@ -51,7 +51,8 @@ Corrida | Previsão | Estado| Histórico|
 
 ## Tecnologias Utilizadas
 ![image](https://github.com/agileteamlog/PILOG6/assets/144856669/d4b6667e-1627-4408-8673-239d60a2a442)
-![image](https://github.com/agileteamlog/PILOG6/assets/144856669/a07d559a-4e09-46c8-81a8-f7a40bba50b5)
+![image](https://github.com/agileteamlog/PILOG6/assets/144856669/cd519dc4-f1ac-491e-858e-307f98cfd24f)
+
 
 
 
