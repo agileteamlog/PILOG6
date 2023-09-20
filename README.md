@@ -25,7 +25,7 @@ Bem vindos ao repositorio do grupo Agile Team. Somos um grupo formado por 5 estu
 | NOME | ATRIBUIÇÃO | REDES SOCIAIS    | IDENTIFICAÇÃO |
 | -----| ---------- | -------------    | ------------- |  
 | Franciele | Scrum Master  |   | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/FranBSouza/readme.git)        
-| João      | Product Owner | 
+| João      | Product Owner |   | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)] (https://github.com/JGValentim/tifateclog6.git)
 | Larissa   | Desenvolvedor | | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/larissaandradek/readme.git)
 | Adressa   | Desenvolvedor | | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AdressaAlmeida/AdressaAlmeida.git)
 | Gustavo   | Desenvolvedor | | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Gustavofjs/redme.git)
