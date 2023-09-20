@@ -24,7 +24,7 @@ Bem vindos ao repositorio do grupo Agile Team. Somos um grupo formado por 5 estu
 ## Integrantes
 | NOME | ATRIBUIÇÃO | REDES SOCIAIS    | IDENTIFICAÇÃO |
 | -----| ---------- | -------------    | ------------- |  
-| Franciele | Scrum Master  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white) (https://www.linkedin.com/in/franciele-batista-129898259?trk=contact-info)  | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/FranBSouza/readme.git)        
+| Franciele | Scrum Master  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/franciele-batista-129898259?trk=contact-info) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/FranBSouza/readme.git)        
 | João      | Product Owner |   | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JGValentim/tifateclog6.git)
 | Larissa   | Desenvolvedor | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-andrade-47ba05149)          | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/larissaandradek/readme.git)
 | Adressa   | Desenvolvedor | | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AdressaAlmeida/AdressaAlmeida.git)
