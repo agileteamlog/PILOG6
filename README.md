@@ -26,7 +26,7 @@ Bem vindos ao repositorio do grupo Agile Team. Somos um grupo formado por 5 estu
 | -----| ---------- | -------------    | ------------- |  
 | Franciele | Scrum Master  |               
 | João      | Product Owner | 
-| Larissa   | Desenvolvedor | | [![GitHub Badge](](https://github.com/larissaandradek/readme.git)      
+| Larissa   | Desenvolvedor | | https://github.com/larissaandradek/readme.git   
 | Adressa   | Desenvolvedor |
 | Gustavo   | Desenvolvedor |
 
