@@ -40,7 +40,7 @@ O objetivo é melhorar a eficiência operacional de uma empresa de transporte de
 ## Planejamento de Entregas 
 Corrida | Previsão | Estado| Histórico|
 | ------ | -------- | ------ | -------- |
-|Kick Off| 05/09/2023 | concluído ✔️| 
+|Kick Off| 05/09/2023 | concluído ✔️| https://github.com/agileteamlog/PILOG6/files/12685804/Kick-off.API.3.pptx
 | Apresentação 00 | 26/09/2023 | Em desenvolvimento|  
 | Sprint 01| 17/10/2023 | desenvolver | 
 | Sprint 02| 07/11/2023 | desenvolver |
