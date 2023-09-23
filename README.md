@@ -72,7 +72,8 @@ Clicando, você será direcionado para o cronograma minucioso deste projeto, ond
 - [x]  Estruturação do backlog no JIRA
 - [x]  Estruturação do GitHub
 - [x]  Grooming do Backlog
-#### Sprint 1. Desenvolvimento do Projeto
+#### Sprint 1. Iniciativa do Projeto
+
 #### Sprint 2 . Implementação
 #### Sprint 3. Operacionalização
 
