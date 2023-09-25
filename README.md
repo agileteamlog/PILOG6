@@ -72,9 +72,29 @@ Clicando, você será direcionado para o cronograma minucioso deste projeto, ond
 - [x]  Estruturação do backlog no JIRA
 - [x]  Estruturação do GitHub
 - [x]  Grooming do Backlog
+      
 #### Sprint 1. Iniciativa do Projeto
+- [] Análise e levantamento do fluxo operacional do cliente e os processos utilizados.
+- [] Identificar problemas que afetam os objetivos e desempenho da empresa.
+- [] Análise de produtividade das operações realizadas no ano anterior.
+- [] Plano de ação e demonstração. 
 
 #### Sprint 2 . Implementação
+= [] Implementação de um recurso de busca avançada. 
+- [] Análise de Eficiência de Veículos
+- [] Relatórios de Produtividade
+- [] Análise de Custo de Rotas / Cálculo de Custo por Rota
+- 
 #### Sprint 3. Operacionalização
+- [] Otimização de Rota
+- []Consolidação de Cargas
+- []Manutenção da Frota
+- []Avaliação de Fornecedores de Transporte
+- []Redução de Custos de Combustível
+- []Monitoramento de KPIs
+- []Otimização de Distribuição
+- []Demonstração de resultados
+- []Melhorias Contínuas
+- []Avaliação de Impacto Ambiental 
 
 
