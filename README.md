@@ -80,11 +80,11 @@ Clicando, você será direcionado para o cronograma minucioso deste projeto, ond
 - [] Plano de ação e demonstração. 
 
 #### Sprint 2 . Implementação
-= [] Implementação de um recurso de busca avançada. 
+- [] Implementação de um recurso de busca avançada. 
 - [] Análise de Eficiência de Veículos
 - [] Relatórios de Produtividade
 - [] Análise de Custo de Rotas / Cálculo de Custo por Rota
-- 
+  
 #### Sprint 3. Operacionalização
 - [] Otimização de Rota
 - []Consolidação de Cargas
