@@ -47,8 +47,6 @@ Corrida | Previsão | Estado| Histórico|
 | Sprint 03|28/11/2023 | desenvolver |
 | Feira de Soluções | 12/12/2023 | desenvolver|  
 
-## Funcionalidades e registros (vídeos e apresentações) das sprints
-
 ## Tecnologias Utilizadas
 ![image](https://github.com/agileteamlog/PILOG6/assets/144856669/bebbd7d4-6041-4edc-a7b2-efbdff476e4f)
 
