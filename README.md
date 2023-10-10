@@ -17,7 +17,7 @@
 - [Tecnologias Utilizadas](#Tecnologiasutilizadas)
 - [Cronograma das Sprints](#Cronogramadassprints)
 - [Backlog do produto](#backlogdoproduto)
-- ntegrantes](#integrantes)
+- [Integrantes](#integrantes)
 
   
 
