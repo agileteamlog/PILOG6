@@ -10,10 +10,16 @@
 ## Tabela de Conteúdos
 
 - [Sobre a Equipe](#sobre-a-equipe)
-- [Integrantes](#integrantes)
 - [Projetos](#projetos)
 - [Objetivo do Projeto](#Objetivo-do-produto)
 - [Planejamento de Entregas](Planejamento-de-Entregas)
+- [Integrantes](#integrantes)
+- [Tecnologias Utilizadas](#Tecnologiasutilizadas)
+- [Cronograma das Sprints](#Cronogramadassprints)
+- [Backlog do produto](#backlogdoproduto)
+- ntegrantes](#integrantes)
+
+  
 
   
 
@@ -21,14 +27,7 @@
 
 Bem vindos ao repositorio do grupo Agile Team. Somos um grupo formado por 5 estudantes de logística. O objetivo geral desta equipe é proporcionar soluções inovadoras e de alta qualidade que atendam às necessidades e expectativas dos nossos clientes, enquanto buscamos crescimento sustentável e sucesso no mercado.
 
-## Integrantes
-| NOME | ATRIBUIÇÃO | REDES SOCIAIS    | IDENTIFICAÇÃO |
-| -----| ---------- | -------------    | ------------- |  
-| Franciele | Scrum Master  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/franciele-batista-129898259?trk=contact-info) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/FranBSouza/readme.git)  | <img src="https://github.com/agileteamlog/PILOG6/assets/144856669/08be7e8d-d341-4d17-af00-a8872cf76edc"  height="60"/>       
-| João      | Product Owner | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-valentim-956227292)  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JGValentim/tifateclog6.git) |  <img src="https://github.com/agileteamlog/PILOG6/assets/144856669/e1562d95-075d-4e6c-8f90-2991b1a0b195" height="60"/> 
-| Larissa   | Desenvolvedor | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-andrade-47ba05149)  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/larissaandradek/readme.git) |  <img src="https://github.com/agileteamlog/PILOG6/assets/144856669/c33ee1c5-7f9b-4bd5-bf2f-0895a3a74a04" height="60"/> 
-| Adressa   | Desenvolvedor | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AdressaAlmeida/AdressaAlmeida.git) | <img src="https://github.com/agileteamlog/PILOG6/assets/144856669/e503635f-450b-48b1-99d7-49b8c5a71423"  height="60"/>
-| Gustavo   | Desenvolvedor | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-franco-1789b21b5) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Gustavofjs/redme.git)|  <img src="https://github.com/agileteamlog/PILOG6/assets/144856669/e1559876-a89a-4ca4-bb4d-36fb3bc59812"  height="60"/>
+
 
 ## Projeto (API) 
 O projeto educacional que sera apresentado a seguir se baseia na Metodologia API, com ênfase no desenvolvimento de habilidades por meio da abordagem de aprendizagem com problemas reais (RPBL), validação externa e agilidade intelectual. Utilizamos estratégias para compreender o problema, criar uma solução viável e implementar o MVP como parte do processo (CDIO).
@@ -72,27 +71,36 @@ Clicando, você será direcionado para o cronograma minucioso deste projeto, ond
 - [x]  Grooming do Backlog
       
 #### Sprint 1. Iniciativa do Projeto
-- [] Análise e levantamento do fluxo operacional do cliente e os processos utilizados.
-- [] Identificar problemas que afetam os objetivos e desempenho da empresa.
-- [] Análise de produtividade das operações realizadas no ano anterior.
-- [] Plano de ação e demonstração. 
+- [ ] Análise e levantamento do fluxo operacional do cliente e os processos utilizados.
+- [ ] Identificar problemas que afetam os objetivos e desempenho da empresa.
+- [ ] Análise de produtividade das operações realizadas no ano anterior.
+- [ ] Plano de ação e demonstração. 
 
 #### Sprint 2 . Implementação
-- [] Implementação de um recurso de busca avançada. 
-- [] Análise de Eficiência de Veículos
-- [] Relatórios de Produtividade
-- [] Análise de Custo de Rotas / Cálculo de Custo por Rota
+- [ ] Implementação de um recurso de busca avançada. 
+- [ ] Análise de Eficiência de Veículos
+- [ ] Relatórios de Produtividade
+- [ ] Análise de Custo de Rotas / Cálculo de Custo por Rota
   
 #### Sprint 3. Operacionalização
-- [] Otimização de Rota
-- []Consolidação de Cargas
-- []Manutenção da Frota
-- []Avaliação de Fornecedores de Transporte
-- []Redução de Custos de Combustível
-- []Monitoramento de KPIs
-- []Otimização de Distribuição
-- []Demonstração de resultados
-- []Melhorias Contínuas
-- []Avaliação de Impacto Ambiental 
+- [ ] Otimização de Rota
+- [ ]Consolidação de Cargas
+- [ ]Manutenção da Frota
+- [ ]Avaliação de Fornecedores de Transporte
+- [ ]Redução de Custos de Combustível
+- [ ]Monitoramento de KPIs
+- [ ]Otimização de Distribuição
+- [ ]Demonstração de resultados
+- [ ]Melhorias Contínuas
+- [ ]Avaliação de Impacto Ambiental 
 
+
+## Integrantes
+| NOME | ATRIBUIÇÃO | REDES SOCIAIS    | IDENTIFICAÇÃO |
+| -----| ---------- | -------------    | ------------- |  
+| Franciele | Scrum Master  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/franciele-batista-129898259?trk=contact-info) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/FranBSouza/readme.git)  | <img src="https://github.com/agileteamlog/PILOG6/assets/144856669/08be7e8d-d341-4d17-af00-a8872cf76edc"  height="60"/>       
+| João      | Product Owner | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-valentim-956227292)  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JGValentim/tifateclog6.git) |  <img src="https://github.com/agileteamlog/PILOG6/assets/144856669/e1562d95-075d-4e6c-8f90-2991b1a0b195" height="60"/> 
+| Larissa   | Desenvolvedor | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-andrade-47ba05149)  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/larissaandradek/readme.git) |  <img src="https://github.com/agileteamlog/PILOG6/assets/144856669/c33ee1c5-7f9b-4bd5-bf2f-0895a3a74a04" height="60"/> 
+| Adressa   | Desenvolvedor | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AdressaAlmeida/AdressaAlmeida.git) | <img src="https://github.com/agileteamlog/PILOG6/assets/144856669/e503635f-450b-48b1-99d7-49b8c5a71423"  height="60"/>
+| Gustavo   | Desenvolvedor | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-franco-1789b21b5) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Gustavofjs/redme.git)|  <img src="https://github.com/agileteamlog/PILOG6/assets/144856669/e1559876-a89a-4ca4-bb4d-36fb3bc59812"  height="60"/>
 
