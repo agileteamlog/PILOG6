@@ -83,16 +83,16 @@ Clicando, você será direcionado para o cronograma minucioso deste projeto, ond
 - [ ] Análise de Custo de Rotas / Cálculo de Custo por Rota
   
 #### Sprint 3. Operacionalização
-- [ ] Otimização de Rota
-- [ ]Consolidação de Cargas
-- [ ]Manutenção da Frota
-- [ ]Avaliação de Fornecedores de Transporte
-- [ ]Redução de Custos de Combustível
-- [ ]Monitoramento de KPIs
-- [ ]Otimização de Distribuição
-- [ ]Demonstração de resultados
-- [ ]Melhorias Contínuas
-- [ ]Avaliação de Impacto Ambiental 
+- [  ]Otimização de Rota
+- [  ]Consolidação de Cargas
+- [  ]Manutenção da Frota
+- [  ]Avaliação de Fornecedores de Transporte
+- [  ]Redução de Custos de Combustível
+- [  ]Monitoramento de KPIs
+- [  ]Otimização de Distribuição
+- [  ]Demonstração de resultados
+- [  ]Melhorias Contínuas
+- [  ]Avaliação de Impacto Ambiental 
 
 
 ## Integrantes
