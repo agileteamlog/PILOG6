@@ -77,28 +77,28 @@ Clicando, você será direcionado para o cronograma minucioso deste projeto, ond
 - [x]  Grooming do Backlog
       
 #### Sprint 1. Iniciativa do Projeto
-- [ ] Análise e levantamento do fluxo operacional do cliente e os processos utilizados.
-- [ ] Identificar problemas que afetam os objetivos e desempenho da empresa.
-- [ ] Análise de produtividade das operações realizadas no ano anterior.
-- [ ] Plano de ação e demonstração. 
+- [x] Levantamento do fluxo operacional das rotas utilizadas para o transporte de cargas até o cliente
+- [x] Análise de produtividade das operações realizadas no ano de 2021
+- [x] Análise de eficiência de Veículos
+- [x] Identificar problemas que afetam os objetivos e desempenho das rotas
+- [x] Apresentação dos dados via Power BI
+- [x] Análise de Custo de Rotas / calculo por km e unidade transportada.
 
 #### Sprint 2 . Implementação
-- [ ] Implementação de um recurso de busca avançada. 
+- [ ] Implementação de um recurso de busca avançada.
+- [ ] Correção de bugs específicos relatados pelo cliente
+- [ ] Otimização de Rota
+- [ ] Otimização de Distribuição
+- [ ] Consolidação de Cargas
+- [ ] Manutenção da Frota
 - [ ] Análise de Eficiência de Veículos
 - [ ] Relatórios de Produtividade
 - [ ] Análise de Custo de Rotas / Cálculo de Custo por Rota
   
 #### Sprint 3. Operacionalização
-- [ ] Otimização de Rota
-- [ ] Consolidação de Cargas
-- [ ] Manutenção da Frota
-- [ ] Avaliação de Fornecedores de Transporte
-- [ ] Redução de Custos de Combustível
 - [ ] Monitoramento de KPIs
-- [ ] Otimização de Distribuição
 - [ ] Demonstração de resultados
 - [ ] Melhorias Contínuas
-- [ ] Avaliação de Impacto Ambiental 
 
 
 ## Integrantes
