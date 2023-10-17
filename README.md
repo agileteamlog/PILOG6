@@ -65,6 +65,9 @@ Corrida | Previsão | Estado| Histórico|
 
 
 
+
+
+
   
   
   ![image](https://github.com/agileteamlog/PILOG6/assets/144856669/dd2943c2-4c15-4caa-9163-6a492f33f9c6)
