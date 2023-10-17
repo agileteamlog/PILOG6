@@ -47,6 +47,13 @@ Corrida | Previsão | Estado| Histórico|
 | Feira de Soluções | 12/12/2023 | desenvolver|  
 
 ## Funcionalidades e registros (videos e apresentações)
+### Sprint 0
+![image](https://github.com/agileteamlog/PILOG6/assets/144856669/ed123651-94fe-4db5-85e7-2df6c2e51142)
+
+
+
+
+
 ### Sprint 01
   Jira Software | https://github.com/agileteamlog/PILOG6/assets/144856669/dfa58307-6f2d-4d76-9561-369e34814ac7.
   
