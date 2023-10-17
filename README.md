@@ -46,7 +46,7 @@ Corrida | Previsão | Estado| Histórico|
 | Sprint 03|28/11/2023 | desenvolver |
 | Feira de Soluções | 12/12/2023 | desenvolver|  
 
-## Funcionalidades e registros (video e apresentações)
+## Funcionalidades e registros (videos e apresentações)
 
 
 ## Tecnologias Utilizadas
