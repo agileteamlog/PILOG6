@@ -47,7 +47,7 @@ Corrida | Previsão | Estado| Histórico|
 | Feira de Soluções | 12/12/2023 | desenvolver|  
 
 ## Funcionalidades e registros (videos e apresentações)
-### Sprint 0
+### Arquivos Sprint 0
 ![image](https://github.com/agileteamlog/PILOG6/assets/144856669/ed123651-94fe-4db5-85e7-2df6c2e51142)
 
 
