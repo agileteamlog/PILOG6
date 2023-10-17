@@ -73,9 +73,6 @@ Corrida | Previsão | Estado| Histórico|
 
 
 ## Cronograma das Sprints
-Clicando, você será direcionado para o cronograma minucioso deste projeto, onde terá acesso aos detalhes das atividades, seus responsáveis, o estágio em que estão e a respectiva sprint a que cada atividade está associada.
-
-#### Cronograma das Sprints [ (clique aqui) ]
 
 ## Backlog do produto
 
