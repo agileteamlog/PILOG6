@@ -49,6 +49,7 @@ Corrida | Previsão | Estado| Histórico|
 ## Funcionalidades e registros (videos e apresentações)
 ### Sprint 01
   Jira Software | https://github.com/agileteamlog/PILOG6/assets/144856669/dfa58307-6f2d-4d76-9561-369e34814ac7
+  
   Burndow ![image](https://github.com/agileteamlog/PILOG6/assets/144856669/dd2943c2-4c15-4caa-9163-6a492f33f9c6)
 
 
