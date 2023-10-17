@@ -55,7 +55,7 @@ Corrida | Previsão | Estado| Histórico|
 
 
 ### Sprint 01
-  ![t4it_thumb_jira-800x630](https://github.com/agileteamlog/PILOG6/assets/144856669/c9b91548-638b-4f02-91c8-46b518f4f62e) | https://github.com/agileteamlog/PILOG6/assets/144856669/dfa58307-6f2d-4d76-9561-369e34814ac7.
+  ![t4it_thumb_jira-800x630](https://github.com/agileteamlog/PILOG6/assets/144856669/c9b91548-638b-4f02-91c8-46b518f4f62e"  height="60"/>  | https://github.com/agileteamlog/PILOG6/assets/144856669/dfa58307-6f2d-4d76-9561-369e34814ac7.
   
   ![image](https://github.com/agileteamlog/PILOG6/assets/144856669/dd2943c2-4c15-4caa-9163-6a492f33f9c6)
 
