@@ -48,7 +48,7 @@ Corrida | Previsão | Estado| Histórico|
 
 ## Funcionalidades e registros (videos e apresentações)
 ### Arquivos Sprint 0
-![image](https://github.com/agileteamlog/PILOG6/assets/144856669/ed123651-94fe-4db5-85e7-2df6c2e51142)
+
 
 
 
@@ -56,6 +56,10 @@ Corrida | Previsão | Estado| Histórico|
 
 ###  Arquivos Sprint 01
 
+
+
+
+https://github.com/agileteamlog/PILOG6/assets/142457045/32937b3a-16d6-4361-8e09-b2c093e191d8
 
 
 
@@ -71,8 +75,7 @@ https://github.com/agileteamlog/PILOG6/assets/144856669/9e2feb29-82ae-427c-91bf-
 
 
   
-  
-  ![image](https://github.com/agileteamlog/PILOG6/assets/144856669/dd2943c2-4c15-4caa-9163-6a492f33f9c6)
+
 
 
 
