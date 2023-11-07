@@ -78,6 +78,10 @@ https://github.com/agileteamlog/PILOG6/assets/144856669/fd9aaccd-3eb7-46d4-9407-
 
   
 
+https://github.com/agileteamlog/PILOG6/assets/144856669/2c41c60c-3232-4f6d-b7fd-d02ac853323c
+
+
+
 
 
 
