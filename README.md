@@ -72,7 +72,9 @@ https://github.com/agileteamlog/PILOG6/assets/144856669/9e2feb29-82ae-427c-91bf-
 
 ###  Arquivos Sprint 02
 
-https://github.com/agileteamlog/PILOG6/blob/main/2023-11-07%2014-04-54.mkv
+https://github.com/agileteamlog/PILOG6/assets/144856669/fd9aaccd-3eb7-46d4-9407-530829f5c010
+
+
 
   
 
