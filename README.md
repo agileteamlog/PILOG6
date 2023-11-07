@@ -41,8 +41,8 @@ Corrida | Previsão | Estado| Histórico|
 | ------ | -------- | ------ | -------- |
 |Kick Off| 05/09/2023 | concluído ✔️| https://github.com/agileteamlog/PILOG6/files/12685804/Kick-off.API.3.pptx
 | Apresentação 00 | 26/09/2023 | Concluido ✔️|https://github.com/agileteamlog/PILOG6/files/12929442/AgileTeamLog.-.Sprints.pptx
-| Sprint 01| 17/10/2023 | desenvolver | Concluido ✔️ | 2023-11-07 14-04-54.mkv
-| Sprint 02| 07/11/2023 | desenvolver | Concluido ✔️ | 
+| Sprint 01| 17/10/2023 |Concluido ✔️ | 275853100-dfa58307-6f2d-4d76-9561-369e34814ac7.mov
+| Sprint 02| 07/11/2023 |Concluido ✔️ | 
 | Sprint 03|28/11/2023 | desenvolver |
 | Feira de Soluções | 12/12/2023 | desenvolver|  
 
